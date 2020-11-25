@@ -1,0 +1,206 @@
+[
+  {
+    "name": "Java",
+    "repos": [
+      "CobaltStrike",
+      "shiro_attack"
+    ],
+    "count": 2
+  },
+  {
+    "name": "C++",
+    "repos": [
+      "redpanda",
+      "openedr",
+      "telegram-bot-api",
+      "kphp",
+      "hackergame2020-writeups",
+      "lab2d"
+    ],
+    "count": 6
+  },
+  {
+    "name": "CSS",
+    "repos": [
+      "Efeito-3D"
+    ],
+    "count": 1
+  },
+  {
+    "name": "C",
+    "repos": [
+      "REDRIVER2",
+      "buck50",
+      "FreeTheSandbox_LPE_POC_13.7"
+    ],
+    "count": 3
+  },
+  {
+    "name": "Vue",
+    "repos": [
+      "coupons"
+    ],
+    "count": 1
+  },
+  {
+    "name": "Go",
+    "repos": [
+      "urlhunter",
+      "lazyssh",
+      "statsview",
+      "fscan",
+      "Xray-core",
+      "rf",
+      "Coldfire",
+      "apple-store-helper",
+      "LadonGo",
+      "gosivy",
+      "lazykube",
+      "fractal"
+    ],
+    "count": 12
+  },
+  {
+    "name": "Common Lisp",
+    "repos": [
+      "LISP-Machine"
+    ],
+    "count": 1
+  },
+  {
+    "name": "HTML",
+    "repos": [
+      "nyt-2020-election-scraper",
+      "gh-pages-url-shortener",
+      "tailwindcss-forms",
+      "avancadev",
+      "introduction-to-bash-scripting"
+    ],
+    "count": 5
+  },
+  {
+    "name": "Perl",
+    "repos": [
+      "slipstream"
+    ],
+    "count": 1
+  },
+  {
+    "name": "Jupyter Notebook",
+    "repos": [
+      "2020_benfords"
+    ],
+    "count": 1
+  },
+  {
+    "name": "Reason",
+    "repos": [
+      "odiff"
+    ],
+    "count": 1
+  },
+  {
+    "name": "Kotlin",
+    "repos": [
+      "exhaustive",
+      "ComposeSpotifyDesktop"
+    ],
+    "count": 2
+  },
+  {
+    "name": "TypeScript",
+    "repos": [
+      "vscode-stories",
+      "valtio",
+      "jsx-lite",
+      "emp",
+      "vscode-stories-api",
+      "activejs",
+      "NodePolus"
+    ],
+    "count": 7
+  },
+  {
+    "name": "Shell",
+    "repos": [
+      "winapps",
+      "tensorflow_macos",
+      "etherify"
+    ],
+    "count": 3
+  },
+  {
+    "name": "Nim",
+    "repos": [
+      "OffensiveNim"
+    ],
+    "count": 1
+  },
+  {
+    "name": "JavaScript",
+    "repos": [
+      "Web-Dev-For-Beginners",
+      "screenity",
+      "jd_scripts",
+      "ttv-ublock",
+      "semana-javascript-expert01",
+      "Git-User-Switch",
+      "attestation-deplacement-derogatoire-q4-2020",
+      "procedural-gl-js",
+      "zonote",
+      "github-stories",
+      "untrusted-types",
+      "corona-widget",
+      "nextjs-aws-s3",
+      "harold"
+    ],
+    "count": 14
+  },
+  {
+    "name": "PHP",
+    "repos": [
+      "breeze",
+      "crypto",
+      "artisan-gui"
+    ],
+    "count": 3
+  },
+  {
+    "name": "Objective-C",
+    "repos": [
+      "AmongLock"
+    ],
+    "count": 1
+  },
+  {
+    "name": "Swift",
+    "repos": [
+      "PredicateKit",
+      "ChangeMenuBarColor",
+      "Silicon"
+    ],
+    "count": 3
+  },
+  {
+    "name": "Python",
+    "repos": [
+      "arXiv2020-RIFE",
+      "genshin-impact-helper",
+      "LibreASR",
+      "CPM-Generate",
+      "MiNLP",
+      "gradslam",
+      "many_requests",
+      "BurpSuite_403Bypasser",
+      "create-ml-app",
+      "Packet-Sniffer",
+      "tez",
+      "SparseR-CNN",
+      "stylized-neural-painting",
+      "universal-doom",
+      "zbn",
+      "996Quant"
+    ],
+    "count": 16
+  }
+]

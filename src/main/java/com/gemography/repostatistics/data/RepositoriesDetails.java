@@ -1,4 +1,4 @@
-package com.gemography.repostatistics.service;
+package com.gemography.repostatistics.data;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
