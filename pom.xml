@@ -12,7 +12,7 @@
 	<artifactId>repostatistics</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>repostatistics</name>
-	<description>Develop a REST microservice that list the languages used by the 100 trendiest public repos on GitHub.</description>
+	<description>REST microservice that list the languages used by the 100 trendiest public repos on GitHub.</description>
 
 	<properties>
 		<java.version>1.8</java.version>
