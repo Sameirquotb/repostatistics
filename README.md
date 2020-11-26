@@ -59,7 +59,7 @@ java -jar target/repostatistics-0.0.1-SNAPSHOT.jar
 ```
 - Open Endpoint URL using browser or any HTTP client
 ```
-http://localhost:8080/repos/languagestatisticsr
+http://localhost:8080/repos/languagestatistics
 ```
 
 
