@@ -44,6 +44,26 @@ Sample Output:
  ]
 ```
 
+## How to run
+
+- Download source code.
+- Open terminal window
+- Navigate to source code folder 
+- Run (Maven should be installed)
+```
+mvn clean package
+```
+- Run 
+```
+java -jar target/repostatistics-0.0.1-SNAPSHOT.jar
+```
+- Open Endpoint URL using browser or any HTTP client
+```
+http://localhost:8080/repos/languagestatisticsr
+```
+
+
+
 ## Future Enhancement :
 
 - Develop unit test.
