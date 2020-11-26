@@ -46,6 +46,6 @@ Sample Output:
 
 ## Future Enhancement :
 
-- Handle exceptions.
+- Develop unit test.
 - Using [WebClient](https://docs.spring.io/spring-boot/docs/2.0.3.RELEASE/reference/html/boot-features-webclient.html) instead of RestTemplate to consumer GitHub webservices, WebClient is a modern, alternative HTTP client to RestTemplate. Not only does it provide a traditional synchronous API, but it also supports an efficient nonblocking and asynchronous approach.
 
